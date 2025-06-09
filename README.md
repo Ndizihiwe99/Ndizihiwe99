@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ndizihiwe99
 - 👀 I’m tech enthusiast
 - 🌱 I’m currently learning different programming languages
-- 📫 How to reach me ...
+- 📫 How to reach me https://github.com/Ndizihiwe99/Ndizihiwe99/tree/main
 
 <!---
 Ndizihiwe99/Ndizihiwe99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
